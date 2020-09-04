@@ -1,0 +1,2 @@
+# PolygonsIntersection
+Polygons intersection vizializer
